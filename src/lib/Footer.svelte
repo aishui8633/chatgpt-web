@@ -14,10 +14,5 @@ export { classes as class }
 <div class="lower-mask2" class:strong-mask={strongMask} />
 <div class="section-footer {classes}" class:pin-footer={pin}>
   <slot />
-  <div class="content has-text-centered credit-footer">
-    <p>
-      <strong><a href="https://chat-gpt.tw.cn">ChatGPT PLUS</a></strong>
-     
-    </p>
-  </div>
+  
 </div>
