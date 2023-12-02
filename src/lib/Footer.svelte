@@ -16,7 +16,7 @@ export { classes as class }
   <slot />
   <div class="content has-text-centered credit-footer">
     <p>
-      <strong><a href="https://chat-gpt.tw.cn">ChatGPT</a></strong>
+      <strong><a href="https://chat-gpt.tw.cn">ChatGPT PLUS</a></strong>
      
     </p>
   </div>
